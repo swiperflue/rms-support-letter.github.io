@@ -1,8 +1,8 @@
 ---
 layout: signed
-title: An open letter in support of Richard M. Stallman
-description: An open letter in support of Richard Matthew Stallman being reinstated by the Free Software Foundation
-image: /assets/social-media-preview.png
+title: Una carta abierta en apoyo de Richard M. Stallman
+description: Una carta abierta en apoyo de la reincorporación de Richard Matthew Stallman a la Free Software Foundation
+image: /assets/social-media-preview_es_ES.png
 locale: es_ES
 twitter:
   card: summary_large_image
@@ -69,4 +69,9 @@ que no se asemeja ni remotamente a un debate conducido
 de manera justa como tal y como demuestran personas como 
 Richard Stallman.
 
-Para firmar, por favor [envíe un pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Para firmar, por favor [envía un pull request](https://github.com/rms-support-letter/rms-support-letter.github.io/pulls).
+Para firmar sin usar Github, puedes:
+- Enviar un parche firmado a [signrms@prog.cf](mailto:signrms@prog.cf) 
+- O a [~tyil/rms-support@lists.sr.ht](mailto:~tyil/rms-support@lists.sr.ht).
+- O agregar tu firma aquí: [https://codeberg.org/rms-support-letter/rms-support-letter/issues/1](https://codeberg.org/rms-support-letter/rms-support-letter/issues/1)
+
